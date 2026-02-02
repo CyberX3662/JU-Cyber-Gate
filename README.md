@@ -27,8 +27,8 @@
   <thead>
     <tr style="background-color: #161b22; color: white;">
       <th width="15%">اليوم</th>
-      <th width="25%">التوقيت (مساءً)</th>
-      <th width="40%">المقرر الدراسي</th>
+      <th width="20%">الوقت (مساءً)</th>
+      <th width="45%">المقرر الدراسي (الرمز + الاسم)</th>
       <th width="20%">المحاضر</th>
     </tr>
   </thead>
@@ -36,56 +36,86 @@
     <tr>
       <td rowspan="3"><b>الأحــــــد</b></td>
       <td>03:00 - 04:50</td>
-      <td><img src="https://img.shields.io/badge/Intro_to_IT-FFA500?style=flat-square&logo=windows&logoColor=white" /> <br> مقدمة تقنية المعلومات</td>
+      <td>
+        <img src="https://img.shields.io/badge/ADIT_1110-FFA500?style=flat-square&logo=windows&logoColor=white" />
+        <br> مقدمة تقنية المعلومات
+      </td>
       <td>د. محمود عبدالمنعم</td>
     </tr>
     <tr>
       <td>05:00 - 05:50</td>
-      <td><img src="https://img.shields.io/badge/Networks-2ea44f?style=flat-square&logo=cisco&logoColor=white" /> <br> أساسيات الشبكات</td>
+      <td>
+        <img src="https://img.shields.io/badge/ADCY_1111-2ea44f?style=flat-square&logo=cisco&logoColor=white" />
+        <br> أساسيات الشبكات
+      </td>
       <td>د. عبدالعزيز الدمراني</td>
     </tr>
     <tr>
       <td>06:00 - 07:50</td>
-      <td><img src="https://img.shields.io/badge/English_1-6c757d?style=flat-square&logo=google-translate&logoColor=white" /> <br> اللغة الإنجليزية 1</td>
+      <td>
+        <img src="https://img.shields.io/badge/ADEN_1110-6c757d?style=flat-square&logo=google-translate&logoColor=white" />
+        <br> اللغة الإنجليزية 1
+      </td>
       <td>د. جلال الربيع</td>
     </tr>
     <tr>
       <td rowspan="2"><b>الاثنيــــن</b></td>
       <td>03:00 - 04:50</td>
-      <td><img src="https://img.shields.io/badge/Cyber_Security-007EC6?style=flat-square&logo=kalilinux&logoColor=white" /> <br> أساسيات الأمن السيبراني</td>
+      <td>
+        <img src="https://img.shields.io/badge/ADCY_1112-007EC6?style=flat-square&logo=kalilinux&logoColor=white" />
+        <br> أساسيات الأمن السيبراني
+      </td>
       <td>د. عمرو أبوزيد</td>
     </tr>
     <tr>
       <td>05:00 - 06:50</td>
-      <td><img src="https://img.shields.io/badge/Math_&_Logic-8A2BE2?style=flat-square&logo=wolframmathematica&logoColor=white" /> <br> رياضيات الحاسب</td>
+      <td>
+        <img src="https://img.shields.io/badge/ADCY_1113-8A2BE2?style=flat-square&logo=wolframmathematica&logoColor=white" />
+        <br> رياضيات الحاسب
+      </td>
       <td>د. أسامة شاهين</td>
     </tr>
     <tr>
       <td rowspan="2"><b>الثلاثـــاء</b></td>
       <td>03:00 - 03:50</td>
-      <td><img src="https://img.shields.io/badge/Intro_to_IT-FFA500?style=flat-square&logo=windows&logoColor=white" /></td>
+      <td>
+        <img src="https://img.shields.io/badge/ADIT_1110-FFA500?style=flat-square&logo=windows&logoColor=white" />
+        <br> مقدمة تقنية المعلومات
+      </td>
       <td>د. محمود عبدالمنعم</td>
     </tr>
     <tr>
       <td>04:00 - 05:50</td>
-      <td><img src="https://img.shields.io/badge/Networks-2ea44f?style=flat-square&logo=cisco&logoColor=white" /></td>
+      <td>
+        <img src="https://img.shields.io/badge/ADCY_1111-2ea44f?style=flat-square&logo=cisco&logoColor=white" />
+        <br> أساسيات الشبكات
+      </td>
       <td>د. عبدالعزيز الدمراني</td>
     </tr>
     <tr>
       <td rowspan="2"><b>الأربعـــاء</b></td>
       <td>03:00 - 03:50</td>
-      <td><img src="https://img.shields.io/badge/Cyber_Security-007EC6?style=flat-square&logo=kalilinux&logoColor=white" /></td>
+      <td>
+        <img src="https://img.shields.io/badge/ADCY_1112-007EC6?style=flat-square&logo=kalilinux&logoColor=white" />
+        <br> أساسيات الأمن السيبراني
+      </td>
       <td>د. عمرو أبوزيد</td>
     </tr>
     <tr>
       <td>04:00 - 04:50</td>
-      <td><img src="https://img.shields.io/badge/Math_&_Logic-8A2BE2?style=flat-square&logo=wolframmathematica&logoColor=white" /></td>
+      <td>
+        <img src="https://img.shields.io/badge/ADCY_1113-8A2BE2?style=flat-square&logo=wolframmathematica&logoColor=white" />
+        <br> رياضيات الحاسب
+      </td>
       <td>د. أسامة شاهين</td>
     </tr>
     <tr>
       <td><b>الخميـــس</b></td>
       <td>03:00 - 03:50</td>
-      <td><img src="https://img.shields.io/badge/English_1-6c757d?style=flat-square&logo=google-translate&logoColor=white" /></td>
+      <td>
+        <img src="https://img.shields.io/badge/ADEN_1110-6c757d?style=flat-square&logo=google-translate&logoColor=white" />
+        <br> اللغة الإنجليزية 1
+      </td>
       <td>د. جلال الربيع</td>
     </tr>
   </tbody>
@@ -107,4 +137,3 @@
 </div>
 
 </div>
-
