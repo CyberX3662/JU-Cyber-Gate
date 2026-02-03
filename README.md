@@ -10,6 +10,14 @@
 
 > **"مبادرة طلابية لأرشفة مصادر دبلوم الأمن السيبراني."**
 
+<br>
+
+<a href="https://t.me/+3dUN7qpDvOFkMjQ8">
+  <img src="https://img.shields.io/badge/Join_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram">
+</a>
+<br>
+<b>⚠️ تنبيه هام:</b> يجب الانضمام لقناة التلجرام أولاً لكي تعمل روابط تحميل الملفات.
+
 </div>
 
 ---
@@ -139,3 +147,4 @@
 </div>
 
 </div>
+
