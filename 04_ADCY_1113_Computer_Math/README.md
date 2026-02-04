@@ -83,15 +83,15 @@
 
 ---
 
-## 📚 المراجع والمصادر (Text Books & References)
+## 📚 الكتب والمراجع (Textbooks & References)
 > **⚠️ تنبيه هام:** الواجبات ستعتمد بشكل مباشر على المراجع التالية:
 
-### 1. Main Textbook:
+### 1. المرجع الأساسي (Main Textbook)
 * **Kenneth Rosen**, *Discrete Mathematics and Its Applications*, 8th Edition, Kindle Edition.
   * **ISBN-13:** 978-1259676512
   * **ISBN-10:** 125967651X
 
-### 2. Reference Book:
+### 2. المرجع المساند (Supplementary Textbook)
 * **M. Morris Mano**, *“Digital Design”*, 3rd Edition, Prentice-Hall, 2002.
   * **ISBN:** 0-13-062121-8
 
