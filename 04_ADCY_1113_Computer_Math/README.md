@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/CyberX3662/JU-Cyber-Gate/discussions/categories/adcy-1113">
-  <img src="https://img.shields.io/badge/💬_المنتدى_الخاص_بالمقرر-Ask_Question-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Course_Forum-Click_to_Join-success?style=for-the-badge&logo=github" alt="Course Forum" />
 </a>
 
 </div>
@@ -64,7 +64,7 @@
 
 | الأسبوع | التاريخ | الموضوع (Topic) | المحتوى التفاعلي |
 | :---: | :--- | :--- | :---: |
-| **1** | 18/01 | مقدمة وأهداف المقرر | - |
+| **1** | 18/01 | مقدمة وأهداف المقرر | [📥 **خطة المقرر**](https://t.me/c/3793707500/4) |
 | **2** | 25/01 | **أنظمة العد (Number Systems - Part 1)**<br>*(Decimal, Binary, Hex, Octal)* | [📖 **ذاكر الدرس**](./Lecture1_Math.md) |
 | **3** | 01/02 | **أنظمة العد (Part 2)**<br>*(Binary Arithmetic, Complements, BCD)* | قريباً... |
 | **4** | 08/02 | **البوابات المنطقية (Logic Gates)**<br>*(AND, OR, NAND, NOR, XOR)* | قريباً... |
@@ -83,13 +83,17 @@
 
 ---
 
-## 📚 المراجع والمصادر (Textbooks)
+## 📚 المراجع والمصادر (Text Books & References)
 > **⚠️ تنبيه هام:** الواجبات ستعتمد بشكل مباشر على المراجع التالية:
 
-1.  **الكتاب الأساسي:**
-    * *Discrete Mathematics and Its Applications* (8th Edition) by **Kenneth Rosen**.
-2.  **الكتاب المساند:**
-    * *Digital Design* (3rd Edition) by **M. Morris Mano**.
+### 1. Main Textbook:
+* **Kenneth Rosen**, *Discrete Mathematics and Its Applications*, 8th Edition, Kindle Edition.
+  * **ISBN-13:** 978-1259676512
+  * **ISBN-10:** 125967651X
+
+### 2. Reference Book:
+* **M. Morris Mano**, *“Digital Design”*, 3rd Edition, Prentice-Hall, 2002.
+  * **ISBN:** 0-13-062121-8
 
 ---
 
@@ -98,4 +102,3 @@
 </div>
 
 </div>
-
