@@ -4,8 +4,11 @@
 
 # 🧮 رياضيات الحاسب | Computer Mathematics
 ### **الرمز:** `ADCY 1113`
-**(الفصل الدراسي الثاني 1447هـ)**
 
+<img src="https://img.shields.io/badge/👨‍🏫_أستاذ_المقرر-د._أسامة_شاهين-e63946?style=for-the-badge" alt="Dr. Osama Shahin" />
+
+<br>
+**(الفصل الدراسي الثاني 1447هـ)**
 <br>
 
 <a href="https://github.com/CyberX3662/JU-Cyber-Gate/discussions/categories/adcy-1113">
@@ -84,16 +87,22 @@
 ---
 
 ## 📚 الكتب والمراجع (Textbooks & References)
-> **⚠️ تنبيه هام:** الواجبات ستعتمد بشكل مباشر على المراجع التالية:
 
-### 1. المرجع الأساسي (Main Textbook)
-* **Kenneth Rosen**, *Discrete Mathematics and Its Applications*, 8th Edition, Kindle Edition.
-  * **ISBN-13:** 978-1259676512
-  * **ISBN-10:** 125967651X
+> [!IMPORTANT]
+> **تنبيه هام:** ذكر الدكتور أن جميع الواجبات ستكون معتمدة بشكل مباشر على المراجع التالية، لذا يرجى الاحتفاظ بها.
 
-### 2. المرجع المساند (Supplementary Textbook)
-* **M. Morris Mano**, *“Digital Design”*, 3rd Edition, Prentice-Hall, 2002.
-  * **ISBN:** 0-13-062121-8
+### 1️⃣ المرجع الأساسي (Main Textbook)
+* **اسم الكتاب:** *Discrete Mathematics and Its Applications*
+* **الإصدار:** 8th Edition, Kindle Edition
+* **المؤلف:** Kenneth Rosen
+* **الرقم الدولي (ISBN-13):** `978-1259676512`
+* **الرقم الدولي (ISBN-10):** `125967651X`
+
+### 2️⃣ المرجع المساند (Supplementary Textbook)
+* **اسم الكتاب:** *Digital Design*
+* **الإصدار:** 3rd Edition, Prentice-Hall
+* **المؤلف:** M. Morris Mano
+* **الرقم الدولي (ISBN):** `0-13-062121-8`
 
 ---
 
@@ -102,4 +111,3 @@
 </div>
 
 </div>
-
