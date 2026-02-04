@@ -92,7 +92,8 @@
 * **اسم الكتاب:** *Discrete Mathematics and Its Applications*
 * **الإصدار:** 8th Edition, Kindle Edition
 * **المؤلف:** Kenneth Rosen
-* **الرقم الدولي (ISBN):** `978-1259676512`
+* **الرقم الدولي (ISBN-13):** `978-1259676512`
+* **الرقم الدولي (ISBN-10):** `125967651X`
 
 ### 2️⃣ المرجع المساند (Supplementary Textbook)
 * **اسم الكتاب:** *Digital Design*
