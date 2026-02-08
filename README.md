@@ -136,7 +136,7 @@
 * 🔐 **[أساسيات الأمن السيبراني | Cybersecurity Foundation (ADCY 1112)](./01_ADCY_1112_Cyber_Foundation)**
 * 🌐 **[أساسيات الشبكات | Network Fundamentals (ADCY 1111)](./02_ADCY_1111_Network_Fundamentals)**
 * 💻 **[مقدمة تقنية المعلومات | Introduction to IT (ADIT 1110)](./03_ADIT_1110_Intro_to_IT)**
-* 🧮 **[رياضيات الحاسب (التصميم الرقمي) | Computer Mathematics (ADCY 1113)](./04_ADCY_1113_Computer_Math)**
+* 🧮 **[رياضيات الحاسب | Computer Mathematics (ADCY 1113)](./04_ADCY_1113_Computer_Math)**
 * 📝 **[اللغة الإنجليزية 1 | English Language 1 (ADEN 1110)](./05_ADEN_1110_English_1)**
 
 <br>
